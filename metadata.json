@@ -1,0 +1,59 @@
+{
+  "siteId": "shopping-bag-folding-storage",
+  "generatedAt": "2026-06-04T11:35:02.147424",
+  "categories": [
+    "beginner-shopping-bag-folding-storage",
+    "advanced-shopping-bag-folding-storage",
+    "tips-shopping-bag-folding-storage",
+    "history-shopping-bag-folding-storage",
+    "trending-shopping-bag-folding-storage",
+    "tutorials-shopping-bag-folding-storage"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-shopping-bag-folding-storage",
+      "category_name": "Beginner Shopping Bag Folding Storage"
+    },
+    {
+      "category_slug": "advanced-shopping-bag-folding-storage",
+      "category_name": "Advanced Shopping Bag Folding Storage"
+    },
+    {
+      "category_slug": "tips-shopping-bag-folding-storage",
+      "category_name": "Shopping Bag Folding Storage Tips"
+    },
+    {
+      "category_slug": "history-shopping-bag-folding-storage",
+      "category_name": "Shopping Bag Folding Storage History"
+    },
+    {
+      "category_slug": "trending-shopping-bag-folding-storage",
+      "category_name": "Trending Shopping Bag Folding Storage"
+    },
+    {
+      "category_slug": "tutorials-shopping-bag-folding-storage",
+      "category_name": "Shopping Bag Folding Storage Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "shopping-bag-folding-storage",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Shopping Bag Folding Storage Central",
+    "articles_per_row": 3
+  }
+}
